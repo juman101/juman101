@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @juman101
 - 👀 I’m interested in development
-- 🌱 I’m currently java
-- 💞️ I’m looking to collaborate on android
+- 🌱 I’m currently interested in java and web development
+
+
+
+
 
 <!---
 juman101/juman101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

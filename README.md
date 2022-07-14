@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @juman101
 - 👀 I’m interested in development
 - 🌱 I’m currently interested in java and web development
+-   I love Watching equity and derivatives market  
 
 
 
